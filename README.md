@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+📊 **This week I spent my time on**
+
 <!--START_SECTION:waka-->
 ```text
 Python      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.85 
