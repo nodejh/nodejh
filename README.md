@@ -36,4 +36,4 @@ XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░
 
 :traffic_light: **Visitors**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nodejh.nodejh)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nodejh.nodejh)
