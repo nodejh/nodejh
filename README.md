@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on something cool :wink:
+- 🔭 I’m currently working on something cool :wink:
+- ⚡ Languages: Node.js, Java, Go :thought_balloon:
 
 📊 **This week I spent my time on**
 
@@ -31,6 +32,9 @@ XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+<!--
 :traffic_light: **Visitors**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nodejh.nodejh)
+-->
