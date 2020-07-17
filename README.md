@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.85 
-JavaScript  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.2 
-TypeScript  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.69 
-Docker      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.21 
-XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.95
+Week #29 : July 13 - 18
+
+Python      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.85% 
+JavaScript  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+TypeScript  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+Docker      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.95%
 ```
 <!--END_SECTION:waka-->
 
