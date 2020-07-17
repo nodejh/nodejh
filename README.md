@@ -30,4 +30,4 @@ XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░
 
 🚦 **Visitors**
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nodejh.nodejh)
