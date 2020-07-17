@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 📊 **This week I spent my time on**
 
 <!--START_SECTION:waka-->
@@ -30,11 +29,6 @@ XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-:sparkles: **GitHub stats**
-
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nodejh&show_icons=true) 
- 
 
 :traffic_light: **Visitors**
 
