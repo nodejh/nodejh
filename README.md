@@ -28,6 +28,12 @@ XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚦 **Visitors**
+:sparkles: **GitHub stats**
+
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nodejh&show_icons=true) 
+ 
+
+:traffic_light: **Visitors**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nodejh.nodejh)
