@@ -27,3 +27,7 @@ Docker      2 hrs 16 mins       ██░░░░░░░░░░░░░░
 XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.95
 ```
 <!--END_SECTION:waka-->
+
+🚦 **Visitors**
+
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
