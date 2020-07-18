@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ```text
 Week #29 : July 13 - 18
 
-Python      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.85% 
-JavaScript  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-TypeScript  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-Docker      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-XML         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.95%
+Python      10 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.36% 
+JavaScript  3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+JSON        3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
+Docker      2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
+XML         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.5%
 ```
 <!--END_SECTION:waka-->
 
