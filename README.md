@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         7 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.62 % 
-JSON         2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Docker       1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Groovy       1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Properties   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Java     9 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.78 % 
+JSON     2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Docker   1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Groovy   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+XML      1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 <!--END_SECTION:waka-->
 
