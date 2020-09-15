@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java        10 hrs 19 mins  ██████████▓░░░░░░░░░░░░░░   42.93 % 
-Python      5 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON        3 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Terraform   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-XML         1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Java        9 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   36.81 % 
+Python      7 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+JSON        4 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Terraform   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+XML         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 <!--END_SECTION:waka-->
 
