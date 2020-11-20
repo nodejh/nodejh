@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         7 hrs 3 mins    ██████████████░░░░░░░░░░░   55.90 % 
-Python       1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Other        1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Docker       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Java     4 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.39 % 
+Other    2 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
+Python   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Docker   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Bash     55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 ```
 <!--END_SECTION:waka-->
 
