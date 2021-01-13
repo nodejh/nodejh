@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.86 % 
-TypeScript   51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
-Java         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Groovy       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript   1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.62 % 
+Python       56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
+YAML         56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Java         55 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Groovy       27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 ```
 <!--END_SECTION:waka-->
 
