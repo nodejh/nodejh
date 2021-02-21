@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on something cool :wink:
-- ⚡ Languages: Node.js, Java, Go :thought_balloon:
+- ⚡ Node.js, Java, Go :thought_balloon:
+- 🤖 Serverless, Kubernetes, Cloud Native
 
 📊 **This week I spent my time on**
 
