@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         12 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.80 % 
-YAML         6 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Python       5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Properties   3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-JSON         1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Java         11 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   43.11 % 
+YAML         5 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 % 
+Properties   3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Python       2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+JSON         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 <!--END_SECTION:waka-->
 
