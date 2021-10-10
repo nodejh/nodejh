@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java     19 mins         ███████████████▒░░░░░░░░░   60.97 % 
-Bash     12 mins         █████████▓░░░░░░░░░░░░░░░   38.43 % 
+Java         19 mins         █████████▓░░░░░░░░░░░░░░░   39.15 % 
+Bash         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Properties   10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.11 % 
+Markdown     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 <!--END_SECTION:waka-->
 
