@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       5 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   40.74 % 
+Java       1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Markdown   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+JSON       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Docker     44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 <!--END_SECTION:waka-->
 
