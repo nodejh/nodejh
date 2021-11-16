@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java                       5 hrs 16 mins   █████████████▒░░░░░░░░░░░   52.73 % 
-Markdown                   1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Docker                     56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-YAML                       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Nginx configuration file   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Java       7 hrs 47 mins   ███████████████████▓░░░░░   78.78 % 
+YAML       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Docker     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Bash       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 
