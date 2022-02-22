@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         10 hrs 58 mins  ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-JavaScript   9 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-JSON         8 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-CSV          5 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Go           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Java         12 hrs 59 mins  ████████░░░░░░░░░░░░░░░░░   32.31 % 
+JavaScript   9 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
+JSON         8 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
+CSV          5 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Properties   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 <!--END_SECTION:waka-->
 
