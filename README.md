@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             22 hrs 48 mins  ████████████████░░░░░░░░░   63.66 %
-TypeScript       6 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-XML              2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Properties       1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-YAML             41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-JavaScript       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Java           21 hrs 10 mins  ███████████████▓░░░░░░░░░   63.15 %
+TypeScript     6 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+XML            2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Properties     1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+JavaScript     40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Velocity       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
