@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 4 mins    ████████████████░░░░░░░░░   64.16 %
-XML          1 hr 14 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Groovy       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Velocity     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             4 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.32 %
+XML              1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+JavaScript       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Markdown         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Groovy           20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Makefile         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
