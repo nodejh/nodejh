@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       2 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.87 %
-Java             1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   36.32 %
-Markdown         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-Makefile         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Go               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Java             7 hrs 22 mins   ███████████████▓░░░░░░░░░   62.52 %
+JavaScript       2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+Markdown         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Text             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+textmate         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
