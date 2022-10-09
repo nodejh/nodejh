@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             15 mins         ██████████████████▒░░░░░░   73.55 %
+Groovy           4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+VTL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
