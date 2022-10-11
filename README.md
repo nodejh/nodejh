@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             15 mins         ██████████████████▒░░░░░░   73.55 %
-Groovy           4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-VTL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java             20 mins         ███████████████████▓░░░░░   78.71 %
+Groovy           4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Properties       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+VTL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
