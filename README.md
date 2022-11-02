@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java                       8 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   47.18 %
-Markdown                   2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-JSON                       1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Bash                       1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-INI                        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Other                      41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Java                       10 hrs 10 mins  ████████████░░░░░░░░░░░░░   47.89 %
+Markdown                   2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Other                      2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 ```
 
 <!--END_SECTION:waka-->
