@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java                       7 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.83 %
-Groovy                     2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Other                      2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Java                       5 hrs 32 mins   ████████▓░░░░░░░░░░░░░░░░   34.45 %
+Other                      2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
 ```
 
 <!--END_SECTION:waka-->
