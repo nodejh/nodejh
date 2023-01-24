@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java     4 hrs 36 mins   ████████████████████████░   96.10 %
-YAML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java     2 hrs 38 mins   ███████████████████████▒░   93.38 %
+YAML     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
