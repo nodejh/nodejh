@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         2 hrs 44 mins   █████████████████▓░░░░░░░   70.48 %
+YAML         28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Markdown     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Bash         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+XML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
