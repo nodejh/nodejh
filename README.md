@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 25 mins    ████████████▓░░░░░░░░░░░░   51.33 %
-YAML         43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-JavaScript   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Groovy       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Java         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-XML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Python       1 hr 2 mins     ████████████████████░░░░░   79.44 %
+JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
