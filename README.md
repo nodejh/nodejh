@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java             5 hrs 18 mins   █████████████████████░░░░   83.58 %
-Python           49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Properties       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java         4 hrs 54 mins   ████████████████████▓░░░░   83.08 %
+Python       49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+textmate     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
