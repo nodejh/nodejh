@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java           6 hrs 31 mins   █████████████████░░░░░░░░   68.04 %
-YAML           1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Python         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JavaScript     28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Java         4 hrs 10 mins   ██████████████████████▓░░   90.29 %
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Lua          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
