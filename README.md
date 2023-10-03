@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-XML          17 mins         ████████░░░░░░░░░░░░░░░░░   32.15 %
-Python       17 mins         ████████░░░░░░░░░░░░░░░░░   31.49 %
-Java         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-YAML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Markdown     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Java   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
