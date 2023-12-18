@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ```txt
 Java                       26 hrs 50 mins  ███████████████▒░░░░░░░░░   61.74 %
-Groovy                     11 hrs 13 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Groovy                     11 hrs 13 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
 XML                        2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 Properties                 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 Java Properties            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
