@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       26 hrs 50 mins  ███████████████▒░░░░░░░░░   61.74 %
-Groovy                     11 hrs 13 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-XML                        2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Properties                 28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Java Properties            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Java                       22 hrs 6 mins   ███████████████▓░░░░░░░░░   62.50 %
+Groovy                     9 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+XML                        2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+YAML                       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Properties                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
