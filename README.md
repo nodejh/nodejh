@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       15 hrs 59 mins  ███████████████▓░░░░░░░░░   62.53 %
-Groovy                     8 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   32.64 %
-Nginx configuration file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-YAML                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Bash                       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java                       12 hrs 58 mins  ████████████████░░░░░░░░░   64.29 %
+Groovy                     4 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+XML                        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Nginx configuration file   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
