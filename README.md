@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   39.90 %
-Python            3 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-JSON              1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Bash              1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Groovy            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Java              4 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 %
+Python            2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+JSON              1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Bash              1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Groovy            43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
