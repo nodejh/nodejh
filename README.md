@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            2 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.88 %
-Java              1 hr 15 mins    ███████▓░░░░░░░░░░░░░░░░░   30.73 %
-Properties        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-XML               11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Groovy            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Java              21 mins         ████████████▓░░░░░░░░░░░░   50.72 %
+Groovy            10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+Python            4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+XML               4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+JavaScript        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
