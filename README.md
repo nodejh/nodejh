@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              21 mins         ████████████▓░░░░░░░░░░░░   50.72 %
-Groovy            10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Python            4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-XML               4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-JavaScript        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python       4 mins          ███████████████████░░░░░░   75.52 %
+JavaScript   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.18 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
