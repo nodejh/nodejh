@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           █████████████████████████   100.00 %
+Other             9 mins          ████████████████▓░░░░░░░░   67.10 %
+Java              4 mins          ████████░░░░░░░░░░░░░░░░░   31.56 %
+Groovy            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
