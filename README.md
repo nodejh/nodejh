@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             3 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.29 %
-JSON              2 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
-Java              1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-YAML              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-XML               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other   3 hrs 1 min     ██████████████░░░░░░░░░░░   56.05 %
+JSON    1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+Java    1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
 ```
 
 <!--END_SECTION:waka-->
