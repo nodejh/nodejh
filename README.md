@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs 1 min     ██████████████░░░░░░░░░░░   56.05 %
-JSON    1 hr 20 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Java    1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Java    42 mins         █████████████████████████   99.82 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
