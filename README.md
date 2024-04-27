@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   9 mins          ████████████████████████░   96.05 %
-XML    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
