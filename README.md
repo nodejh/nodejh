@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-XML     1 min           ██████████████▒░░░░░░░░░░   56.77 %
-Other   1 min           ██████████▓░░░░░░░░░░░░░░   43.23 %
+Text     7 mins          █████████████░░░░░░░░░░░░   51.95 %
+Python   6 mins          ████████████░░░░░░░░░░░░░   47.46 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
