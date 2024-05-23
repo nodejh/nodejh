@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Text     7 mins          █████████████░░░░░░░░░░░░   51.95 %
-Python   6 mins          ████████████░░░░░░░░░░░░░   47.46 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
