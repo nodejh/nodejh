@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 mins         █████████░░░░░░░░░░░░░░░░   36.44 %
-Python       13 mins         ████████▒░░░░░░░░░░░░░░░░   33.63 %
-Docker       7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Git Config   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Docker     7 mins          ██████████████▓░░░░░░░░░░   58.02 %
+Python     4 mins          █████████▒░░░░░░░░░░░░░░░   36.69 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Bash       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
