@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   16 mins         ███████████████▓░░░░░░░░░   62.84 %
-Bash     9 mins          █████████▒░░░░░░░░░░░░░░░   37.16 %
+C++           26 mins         ████████████▒░░░░░░░░░░░░   49.32 %
+Python        17 mins         ████████░░░░░░░░░░░░░░░░░   31.93 %
+Bash          9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
