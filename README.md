@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ████████████████████▓░░░░   82.05 %
-Python       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python   0 secs          ███████████████████████░░   92.60 %
+YAML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:waka-->
