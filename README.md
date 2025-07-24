@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        42 mins         █████████████░░░░░░░░░░░░   51.62 %
-Other         17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
-Image (svg)   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-TypeScript    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Text          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Other      15 mins         █████████████████████▒░░░   85.31 %
+Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
