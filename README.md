@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             39 mins         ███████████████████░░░░░░   76.12 %
-Java Properties   10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Docker            2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Python            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other             38 mins         ████████▒░░░░░░░░░░░░░░░░   33.54 %
+Python            25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+JSON              18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JavaScript        15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Java Properties   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 ```
 
 <!--END_SECTION:waka-->
