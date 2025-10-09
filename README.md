@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ████████████████████████▒   97.68 %
-Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Python     48 mins         █████████████████████░░░░   83.66 %
+Markdown   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
