@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   26 mins               ███████████████▒░░░░░░░░░   61.87 %
-Markdown     12 mins               ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-TypeScript   3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown   12 mins               ████████████████████████▓   98.67 %
+Python     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
