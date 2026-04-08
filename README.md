@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 22 mins         ████████████░░░░░░░░░░░░░   48.63 %
-Python       2 hrs 3 mins          ██████████▓░░░░░░░░░░░░░░   42.07 %
-Markdown     25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown   18 mins               ██████████████████▒░░░░░░   73.88 %
+Python     6 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+YAML       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
