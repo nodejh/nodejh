@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 39 mins         ████████░░░░░░░░░░░░░░░░░   32.61 %
+Markdown     6 hrs 39 mins         ████████░░░░░░░░░░░░░░░░░   32.60 %
 Other        4 hrs 58 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 %
 Python       3 hrs 49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
 TypeScript   2 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
