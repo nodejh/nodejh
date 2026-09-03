@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby     15 mins               ██████████████████████▓░░   90.48 %
-Python   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
